@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanTin-Developer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTin-Developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -39,11 +39,6 @@
 
 ### 📌 Featured Projects
 
-<!--
-Update these with your actual pinned repos — GitHub also lets you
-pin repos directly from your profile page (Customize your pins).
--->
-
 - 🏨 **Hotel Management System** — Full-stack booking platform with customer site + admin dashboard
 - 📦 **SwiftTrack** — Blazor Server/.NET parcel management system
 - 📚 **JamnehDoeng** — Bilingual bookstore with React/PHP stack
@@ -55,7 +50,7 @@ pin repos directly from your profile page (Customize your pins).
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SanTin-Developer/SanTin-Developer/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -63,12 +58,9 @@ pin repos directly from your profile page (Customize your pins).
 ### 📫 Connect with Me
 
 <p align="left">
-  <!-- Replace # with your actual links -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://t.me/santin_oeurn"><img src="https://skillicons.dev/icons?i=telegram" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SanTin-Developer&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
