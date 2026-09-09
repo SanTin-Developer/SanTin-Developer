@@ -57,10 +57,9 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://t.me/santin_oeurn"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-</p>
-
+<a href="https://t.me/santin_oeurn">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanTin-Developer&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
