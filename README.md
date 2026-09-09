@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=SanTin-Developer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+ <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=SanTin-Developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
