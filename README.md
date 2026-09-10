@@ -27,13 +27,16 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,php,laravel,postgres,oracle,html,css,tailwind,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,php,laravel,postgres,html,css,tailwind,bootstrap,git,github,docker,linux,vscode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-**Frontend:** React, TypeScript, Blazor Server, HTML/CSS, TailwindCSS
+**Frontend:** React, JavaScript, TypeScript, Blazor Server, HTML/CSS, TailwindCSS, Bootstrap
 **Backend:** .NET (Blazor Server), PHP, Laravel
 **Databases:** PostgreSQL, Oracle
-**Tools:** Git, GitHub, Docker, VS Code
+**Tools:** Git, GitHub, Docker, Linux, VS Code
 
 ---
 
