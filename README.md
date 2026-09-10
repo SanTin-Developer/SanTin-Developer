@@ -1,4 +1,4 @@
-<h1 align="center">Hi! San Tin (សាន់ទីន)</h1>
+<h1 align="center">Hi! I'm San Tin (សាន់ទីន)</h1>
 <h3 align="center">Full Stack Developer | Software Engineering Student</h3>
 
 <p align="center">
