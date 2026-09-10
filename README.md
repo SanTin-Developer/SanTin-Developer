@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SanTin (សាន់ទីន)</h1>
-<h3 align="center">Full Stack Developer | Software Development Student</h3>
+<h3 align="center">Full Stack Developer | Software Engineering Student at Norton University</h3>
 
 <p align="center">
   📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 🎓 3rd Year Software Development Student
