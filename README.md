@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Software Development Student</h3>
 
 <p align="center">
-  📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 🎓 2nd Year Software Development Student
+  📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 🎓 3rd Year Software Development Student
 </p>
 
 <p align="center">
